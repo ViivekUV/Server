@@ -1,8 +1,5 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "picture": "firebase.com/img.jpg"
-    }
-  ],
+  "id": {
+    "picture": "firebase.com/img.jpg"
+  }  
 }

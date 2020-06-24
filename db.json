@@ -1,0 +1,8 @@
+{
+  "posts": [
+    {
+      "email": 'v@gmail.com',
+      "picture": "firebase.com/img.jpg"
+    }
+  ],
+}
